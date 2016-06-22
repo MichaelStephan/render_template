@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ $# -ne 2 ]; then 
-  echo "$0 <config> <template>"
+  echo "usage: $0 <config> <template>"
   exit 255
 fi
 
