@@ -7,12 +7,15 @@ config: path to config file
 template: path to template file
 
 ## config file content, example.config
+```
 export PARAM1=foo
 export PARAM2=bar
-
+```
 ## template file content, example.template
+```
 param1 equals ${PARAM1}
 param2 equals ${PARAM2}
+```
 
 ``hint: indicate with ${} what variables need to be replaced`` 
 
