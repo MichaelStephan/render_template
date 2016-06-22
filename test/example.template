@@ -1,0 +1,2 @@
+param1 equals ${PARAM1}
+param2 equals ${PARAM2}
