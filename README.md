@@ -1,6 +1,6 @@
 # How to use render_template.sh 
 
-usage: ./render_template.sh <config> <template>" 
+usage: ./render_template.sh <config> <template>
 
 ## arguments
 config: path to config file
